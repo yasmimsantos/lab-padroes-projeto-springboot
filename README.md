@@ -1,4 +1,4 @@
-# Orange Tech + | BackEnd - DIGITAL INNOVATION ONE + INTER
+# Orange Tech + | BackEnd | DIGITAL INNOVATION ONE + Inter
 
 ## Explorando Padrões de Projetos na Prática com Java
 
